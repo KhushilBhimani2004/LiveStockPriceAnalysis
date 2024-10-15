@@ -1,4 +1,4 @@
-# Live Stock Price Analysis
+# Live Stock Price Analysis - ![LINK](https://khushilbhimani.shinyapps.io/LiveStockPriceAnalysisBDAProject/)
 Live Stock Price Visualization using R. 
 This RShiny application provides real-time visualization of stock prices, enabling users to gain insights into market trends through interactive and informative plots. The app fetches live stock data and presents it in various forms, such as Closing vs. Opening prices, High vs. Low prices, Volume, Candlestick patterns, Moving Averages (50-day SMA), and the Relative Strength Index (14-day RSI). These plots help users understand price fluctuations, market volatility, and potential trading opportunities.  Designed for simplicity, the application leverages R's powerful data processing and visualization capabilities, offering a seamless experience for monitoring stock performance and making informed investment decisions.
 Output:-
